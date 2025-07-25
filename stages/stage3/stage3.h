@@ -1,0 +1,1 @@
+#define LOG(fmt, ...) NSLog((@"[stage3] " fmt), ##__VA_ARGS__)

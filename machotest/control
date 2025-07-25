@@ -1,0 +1,9 @@
+Package: com.yourcompany.machotest
+Name: machotest
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: seo
+Author: seo
+Section: System
+Tag: role::hacker

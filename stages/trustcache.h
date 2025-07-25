@@ -1,0 +1,1 @@
+int inject_trustcache(char *path, uint64_t trust_chain);

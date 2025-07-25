@@ -1,0 +1,1 @@
+int patch_hsp4();
